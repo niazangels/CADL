@@ -1,7 +1,6 @@
 # Avoid data files
 data/
 img_align_celeba/
-
 #Ignore saved weights
 *.h5
 
